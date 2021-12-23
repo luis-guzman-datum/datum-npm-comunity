@@ -1,0 +1,15 @@
+{
+  "name": "ng-datatable-dtm",
+  "version": "0.0.1",
+  "description": "Datatable material",
+  "keywords": [],
+  "author": "Luis Guzmán <luis.guzman@datumredsoft.com> (https://www.datumredsoft.com/)",
+  "homepage": "",
+  "peerDependencies": {
+    "@angular/common": "^12.2.0",
+    "@angular/core": "^12.2.0"
+  },
+  "dependencies": {
+    "tslib": "^2.3.0"
+  }
+}
