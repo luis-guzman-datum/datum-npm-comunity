@@ -3,6 +3,10 @@
   "version": "0.0.1",
   "description": "Datatable material",
   "keywords": [],
+  "repository" :
+  { "type" : "git",
+    "url" : "https://github.com/npm/cli.git"
+  },
   "author": "Luis Guzmán <luis.guzman@datumredsoft.com> (https://www.datumredsoft.com/)",
   "homepage": "",
   "peerDependencies": {
